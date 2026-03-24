@@ -1,7 +1,9 @@
 Privacy Policy
 
 Effective Date: 24 March, 2026
+
 App Name: Tappy Plane
+
 Developer: ShinoJull Games
 
 1. Introduction
