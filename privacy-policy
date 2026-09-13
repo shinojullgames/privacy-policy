@@ -1,119 +1,125 @@
-Privacy Policy
+# Privacy Policy
 
-Effective Date: 24 March, 2026
-App Name: Tappy Plane
-Developer: ShinoJull Games
+**Effective Date:** 24 March, 2026
+**App Name:** Tappy Plane
+**Developer:** ShinoJull Games
 
-1. Introduction
+## 1. Introduction
 
-ShinoJull Games (“we”, “our”, “us”) respects your privacy. This Privacy Policy explains how we collect, use, and protect your information when you use our mobile application.
+ShinoJull Games ("we", "our", "us") respects your privacy. This Privacy Policy explains how we collect, use, and protect your information when you use our mobile application.
 
-2. Information We Collect
-a) Advertising Data (AdMob)
+## 2. Information We Collect
+
+### a) Account Information
+
+If you choose to sign in with your email address, we collect and store:
+
+- Your email address
+- A unique account identifier (used internally to link your saved progress, purchases, and leaderboard entries to your account)
+
+This is used to sync your progress across devices, save your high scores, and let you appear on leaderboards. Signing in is optional — you can continue to play without an account, though your progress will only be saved locally on that device.
+
+### b) Gameplay & Crash Data
+
+- **Saved progress:** high scores, coins, gems, and unlocked cosmetics, tied to your account or device.
+- **Leaderboard entries:** your chosen display name and score, shown publicly to other players.
+- **Crash reports:** if you opt in via the in-app consent prompt, we use Firebase Crashlytics to collect crash logs (device state and app logs at the time of a crash) to help us diagnose and fix bugs. This is off by default and only enabled if you allow it in Settings — you can turn it off at any time.
+
+### c) Advertising Data (AdMob)
 
 We use Google AdMob to display ads in our app. AdMob may collect and process the following data:
 
-Device identifiers (such as Advertising ID)
-
-IP address
-
-App usage data
-
-Interaction with ads
+- Device identifiers (such as Advertising ID)
+- IP address
+- App usage data
+- Interaction with ads
 
 This data is used to provide and improve advertising services.
 
-b) Device Information
+### d) Device Information
 
 We may collect limited device-related information, including:
 
-Device model
-
-Operating system version
-
-Language settings
-
-App version
+- Device model
+- Operating system version
+- Language settings
+- App version
 
 This information helps us improve app performance and compatibility.
 
-c) Cookies and Identifiers
+### e) Cookies and Identifiers
 
 Our app and advertising partners may use:
 
-Cookies (where applicable)
-
-Mobile advertising identifiers
-
-Similar tracking technologies
+- Cookies (where applicable)
+- Mobile advertising identifiers
+- Similar tracking technologies
 
 These are used to:
 
-Deliver relevant ads
+- Deliver relevant ads
+- Measure ad performance
+- Prevent fraud
 
-Measure ad performance
-
-Prevent fraud
-
-3. How We Use Information
+## 3. How We Use Information
 
 We use collected data to:
 
-Show ads through AdMob
+- Create and manage your account, and sync your progress across devices
+- Show your scores and display name on leaderboards
+- Show ads through AdMob
+- Improve gameplay experience
+- Fix bugs and crashes (via optional crash reporting)
+- Analyze app performance
+- Process in-app purchases through Google Play Billing
 
-Improve gameplay experience
-
-Fix bugs and crashes
-
-Analyze app performance
-
-4. Third-Party Services
+## 4. Third-Party Services
 
 We use third-party services that may collect information:
 
-Google AdMob (Advertising)
+- Google Firebase (Authentication, database, Crashlytics crash reporting)
+- Google Play Billing (in-app purchases)
+- Google AdMob (Advertising)
 
-You can review their policies here:
-https://policies.google.com/privacy
+You can review their policies here: [https://policies.google.com/privacy](https://policies.google.com/privacy)
 
-5. Data Sharing
+## 5. Data Sharing
 
 We do not sell your personal data.
 
 However, data may be shared with:
 
-Advertising partners (AdMob)
+- Google Firebase, as our backend service provider (account, save data, crash reports)
+- Google Play, for purchases and billing
+- Advertising partners (AdMob)
+- Service providers for analytics and performance
 
-Service providers for analytics and performance
-
-6. User Rights
+## 6. User Rights
 
 Depending on your location, you may have rights to:
 
-Access your data
+- Access your data
+- Request deletion
+- Opt-out of personalized ads
 
-Request deletion
+You can manage ad preferences here: [https://adssettings.google.com](https://adssettings.google.com)
 
-Opt-out of personalized ads
+To request deletion of your Tappy Plane account and data, visit our [Delete My Account](delete-account.html) page.
 
-You can manage ad preferences here:
-https://adssettings.google.com
-
-7. Children’s Privacy
+## 7. Children's Privacy
 
 Our app is not directed to children under 13 (or equivalent age in your region).
 
 We do not knowingly collect personal information from children.
 
-8. Security
+## 8. Security
 
 We take reasonable measures to protect your data, but no method is 100% secure.
 
-9. Changes to This Policy
+## 9. Changes to This Policy
 
 We may update this Privacy Policy from time to time. Changes will be reflected on this page.
 
-10. Contact Us
+## 10. Contact Us
 
-If you have any questions, contact us at:
-[shinojullgames@gmail.com]
+If you have any questions, contact us at: [shinojullgames@gmail.com](mailto:shinojullgames@gmail.com)
