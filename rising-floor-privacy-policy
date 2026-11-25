@@ -1,0 +1,47 @@
+# Privacy Policy for Rising Floor: Arcade Climb
+
+**Effective date:** [YYYY-MM-DD]  
+**Developer:** Shinojull Games
+
+This policy explains how Shinojull Games and its service providers handle information when you use Rising Floor: Arcade Climb for Android.
+
+## Game progress and settings
+
+Rising Floor does not require a player account. The game saves high scores, progress, daily reward history, in-game currency, unlocked items, and preferences on your device so you can resume playing. The app does not send these saved records to Shinojull Games.
+
+If you use tilt controls, the game processes motion sensor readings on your device to move your character. The game also uses your device's date and time for daily features and time-of-day visuals.
+
+## Notifications
+
+If you grant notification permission, Rising Floor can schedule local reminders for Daily Climb and login rewards. You can manage notification permission in Android settings.
+
+## Advertising and analytics
+
+Rising Floor uses Google AdMob to display full-screen ads between runs and optional rewarded ads. The game shows the reward before you choose whether to watch a rewarded ad.
+
+The Google Mobile Ads SDK may collect and share your IP address, app and ad interactions, diagnostic information, and device or account identifiers, including the Android advertising ID where available. Google may use your IP address to estimate your general location. Google uses this information to deliver and measure ads, analyze performance, and detect and prevent fraud.
+
+Ad personalization depends on your region, applicable consent choices, and device settings. You can manage your advertising ID in Android settings where available and review your Google ad preferences in [My Ad Center](https://myadcenter.google.com/).
+
+Learn more in [How Google uses information from sites or apps that use its services](https://policies.google.com/technologies/partner-sites) and the [Google Privacy Policy](https://policies.google.com/privacy).
+
+## Google Play purchases
+
+Google Play processes purchases such as Remove Ads. The app receives purchase information from Google Play to verify, grant, and restore the purchase. Shinojull Games does not receive your full payment card details. Google handles Play account and transaction information under the [Google Privacy Policy](https://policies.google.com/privacy).
+
+## Support, retention, and deletion
+
+If you contact us, we receive your email address, message, and any information you choose to include. We use that information to respond and investigate the issue. Our email provider processes messages on our behalf. We keep support correspondence as long as needed to resolve the request and meet applicable legal obligations.
+
+You can remove local progress and settings by clearing the game's app storage or uninstalling it. Android may retain or restore a backup according to your device settings. Clearing local game data does not delete your Google Play transaction history.
+
+To request access to or deletion of information you shared with Shinojull Games, contact us at the address below. For information held by Google, use [Google Account privacy controls](https://myaccount.google.com/data-and-privacy). Google's privacy policy describes its retention and deletion practices.
+
+## Changes to this policy
+
+If these practices change, we will update this page and revise the effective date.
+
+## Contact
+
+For privacy questions or requests, email **Shinojull Games** at **[public support email]**.
+
